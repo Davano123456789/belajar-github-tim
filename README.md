@@ -9,5 +9,5 @@ Project latihan GitHub untuk belajar kerja tim.
 ## Branch Strategy
 
 - main : production
-- dev : development200
+- dev : development2000
 - feature/\* : fitur masing-masing
