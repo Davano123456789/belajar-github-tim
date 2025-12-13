@@ -1,3 +1,13 @@
 # Belajar GitHub Tim
 
-Repo ini digunakan untuk latihan GitHub dari nol.
+Project latihan GitHub untuk belajar kerja tim.
+
+## Anggota
+
+- Davano
+
+## Branch Strategy
+
+- main : production
+- dev : development
+- feature/\* : fitur masing-masing
