@@ -1,0 +1,2 @@
+Ini adalah file ayah.txt.
+Silakan isi sesuai kebutuhan Anda.
